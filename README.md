@@ -1,5 +1,8 @@
 # Mini-Speaker-System-1602
 Mini Desktop Speaker System for Personal Computer
+VIDEO:
+https://youtu.be/4iPqSR8gkYA
+https://youtu.be/_-FPJ8jWGxw
 
 Smartphones and personal computers have become sources of media content for the majority. 
 But to bring the audio component to your ears, you also need headphones or acoustically 
