@@ -50,21 +50,39 @@ with electrolyte and get a short-term, but quite pleasant increase in the signal
 Housing: homemade from furniture pine board, does not resonate at relatively low system powers, easy to process, inexpensive.
 
 Weight 3.8 kg. (both speakers including power cord)
+
 Overall dimensions (H x W x D): 295 x 145 x 145 (without legs and protruding body elements)
+
 Output power 2 x 18 W (at 8 Ohm load)
+
 Total harmonic distortion (for headphones) ... 0.003% (in the signal range 10Hz-20KHz)
+
 Total harmonic distortion (output to Subwoofers) ... 0.002% (in the range 400Hz-30KHz)
+
 Total harmonic distortion (output into 8 Ohm load) ... 0.05% (in the range 20Hz-20KHz)
+
 Crosstalk between channels... -100 dB
+
 Crosstalk between input selectors... -100 dB
+
 Input Preamp 0 to 20 dB
+
 MUTE mode... -105 dB
+
 Volume adjustment -79 to +15 dB
+
 Tone adjustment HF, MF, LF... ± 20 dB
+
 Output attenuator -79 to 15 dB
+
 Loudness compensation from 0 to 20 dB
+
 Shift of the center band of the tone controls 4 options for 3 bands
+
 Changing the quality factor of the tone controls 2 or 4 options depending on the frequency band
 LPF phase shift
+
 Control 4 buttons on the front panel + encoder button + 9 buttons on the IR remote control
+
+
 Ask questions in the comments or by personal email tolikn@yandex.ru
